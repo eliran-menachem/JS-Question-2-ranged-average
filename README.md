@@ -1,4 +1,4 @@
-# JS-practice-3-ranged-average-question
+JS-Question-2-ranged-average
 
 Ranged-Average Question:
 (Without using any JS method)
